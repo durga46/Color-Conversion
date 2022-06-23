@@ -1,5 +1,5 @@
-## EX.NO:03
-## Date:11.04.2022
+## EX.NO :03
+## Date :11.04.2022
 # <p align="center">  Color Conversion</p>
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
@@ -175,10 +175,16 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### iv) Split and merge RGB Image
 ![output](./static/img/o4.jpeg)
+<br>
+<br>
 <br>
 <br>
 <br>
