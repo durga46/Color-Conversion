@@ -1,4 +1,6 @@
-# Color Conversion
+## EX.NO:03
+## Date:07.04.2022
+# <p align="center">  Color Conversion</p>
 ## AIM
 To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
@@ -44,9 +46,6 @@ cv2.imshow('RGB2GRAY',gray_image1)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-
-
-
 # ii)Convert HSV to RGB and BGR
 import cv2
 img = cv2.imread("butterfly.jpg")
@@ -59,12 +58,6 @@ hsv_bgr = cv2.cvtColor(hsv, cv2.COLOR_HSV2BGR)
 cv2.imshow("HSV2BGR", hsv_bgr)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
-
-
-
 
 # iii)Convert RGB and BGR to YCrCb
 import cv2
@@ -80,9 +73,6 @@ cv2.imshow("RGB2YCrCb", img_bgr_y)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-
-
-
 # iv)Split and Merge RGB Image
 import cv2
 img = cv2.imread("butterfly.jpg")
@@ -96,9 +86,6 @@ merger = cv2.merge([b,g,r])
 cv2.imshow("MERGED IMAGE", merger )
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
 
 # v) Split and merge HSV Image
 import cv2
@@ -114,10 +101,6 @@ merger = cv2.merge([h,s,v])
 cv2.imshow("MERGED IMAGE", merger )
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-
-
-
 ```
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
