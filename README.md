@@ -21,8 +21,7 @@ Split and merge the image using cv2.split(hsv) and cv2.merge([h,s,v])
 
 ### Step5:
 Output the image using cv2.imshow("OUTPUT", image)
-</br>
-</br>
+
 </br>
 </br>
 </br>
@@ -129,7 +128,6 @@ cv2.destroyAllWindows()
 <br>
 ### ii) HSV to RGB and BGR
 ![output](./static/img/o2.jpeg)
-
 ### iii) RGB and BGR to YCrCb
 ![output](./static/img/o3.jpeg)
 <br>
