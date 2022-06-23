@@ -144,6 +144,14 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### iii) RGB and BGR to YCrCb
 ![output](./static/img/o3.jpeg)
 <br>
@@ -159,6 +167,13 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### iv) Split and merge RGB Image
 ![output](./static/img/o4.jpeg)
@@ -175,6 +190,14 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ### v) Split and merge HSV Image
 ![output](./static/img/o5.jpeg)
