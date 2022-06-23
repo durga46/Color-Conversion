@@ -26,7 +26,6 @@ Output the image using cv2.imshow("OUTPUT", image)
 </br>
 </br>
 </br>
-</br>
 
 
 ## Program:
@@ -129,7 +128,8 @@ cv2.destroyAllWindows()
 ![output](./static/img/o2.jpeg)
 <br>
 <br>
-
+<br>
+<br>
 ### iii) RGB and BGR to YCrCb
 ![output](./static/img/o3.jpeg)
 <br>
