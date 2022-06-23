@@ -177,9 +177,6 @@ cv2.destroyAllWindows()
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 ### iv) Split and merge RGB Image
 ![output](./static/img/o4.jpeg)
