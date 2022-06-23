@@ -123,13 +123,13 @@ cv2.destroyAllWindows()
 ![output](./static/img/o1.jpeg)
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 ### ii) HSV to RGB and BGR
 ![output](./static/img/o2.jpeg)
-<br>
-<br>
-<br>
-<br>
+
 ### iii) RGB and BGR to YCrCb
 ![output](./static/img/o3.jpeg)
 <br>
