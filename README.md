@@ -21,6 +21,13 @@ Split and merge the image using cv2.split(hsv) and cv2.merge([h,s,v])
 
 ### Step5:
 Output the image using cv2.imshow("OUTPUT", image)
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 ## Program:
 ```python
@@ -97,6 +104,21 @@ cv2.imshow("MERGED IMAGE", merger )
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
 ![output](./static/img/o1.jpeg)
