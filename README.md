@@ -122,7 +122,9 @@ cv2.destroyAllWindows()
 
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-![output](./static/img/o1.jpeg)
+![162785803-3e644961-bed8-41c1-87da-775a5269b94a](https://github.com/durga46/Color-Conversion/assets/75235704/1d41ad99-cb97-4eaa-a50a-ebbae57bf799)
+
+
 <br>
 <br>
 <br>
@@ -132,9 +134,9 @@ cv2.destroyAllWindows()
 <br>
 <br>
 ### ii) HSV to RGB and BGR
-![output](./static/img/o2.jpeg)
-<br>
-<br>
+![162786267-2f866d43-97d6-4ede-af4a-7630d896ca3c](https://github.com/durga46/Color-Conversion/assets/75235704/83a2fccf-f538-4c43-97cf-7d758fdcbf28)
+
+
 <br>
 <br>
 <br>
@@ -155,7 +157,9 @@ cv2.destroyAllWindows()
 <br>
 
 ### iii) RGB and BGR to YCrCb
-![output](./static/img/o3.jpeg)
+![162785899-31ba113f-b84e-4827-941b-9d6ce449341f](https://github.com/durga46/Color-Conversion/assets/75235704/6237e028-0d77-44c8-b5fd-26ed00d77279)
+
+
 <br>
 <br>
 <br>
@@ -179,7 +183,10 @@ cv2.destroyAllWindows()
 <br>
 
 ### iv) Split and merge RGB Image
-![output](./static/img/o4.jpeg)
+![162785920-0adeb6be-37fb-4fa2-894d-8d37bcf57cca](https://github.com/durga46/Color-Conversion/assets/75235704/e214f369-4a55-4199-943c-c1c55a6e154b)
+
+
+
 <br>
 <br>
 <br>
@@ -209,7 +216,9 @@ cv2.destroyAllWindows()
 
 
 ### v) Split and merge HSV Image
-![output](./static/img/o5.jpeg)
+![162785930-8afcbaa8-b40d-476e-a245-a49ed439e685](https://github.com/durga46/Color-Conversion/assets/75235704/459aa076-dcc3-47e4-8332-c8098817ea92)
+
+
 <br>
 <br>
 
